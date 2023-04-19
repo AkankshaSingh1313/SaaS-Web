@@ -22,7 +22,7 @@ app.use(express.static(buildpath))
 app.get("/*", function(req, res){
     console.log("here");
     res.sendFile(
-        path.join(__dirname,"../client/index1.html"),
+        path.join(__dirname,"../client/Index1.html"),
         
         function(err){
             if(err){
