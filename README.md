@@ -1,3 +1,3 @@
 # SaaS-Web
-SaaS-Web
-An educational website containing several courses. 
+Alpha Education 
+an educational website containing several courses. 
