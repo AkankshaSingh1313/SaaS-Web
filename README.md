@@ -1,4 +1,4 @@
 # SaaS-Web
-Alpha Education 
-an educational website containing several courses. 
-This website has different pages like index page, about page and a few more. 
+Alpha Education<br>
+An educational website that may contain several courses. 
+This website will have different pages like index pages, about pages, and a few more. 
